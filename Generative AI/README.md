@@ -13,7 +13,7 @@ The system is intelligent enough to generate accurate queries for given question
 
 
 
-## Project Highlights//
+### Project Highlights\\
 
 - Paris is a Previledge account access db 
 - Data stored in a MySQL database
